@@ -1,5 +1,5 @@
 .navbar-style{
-  background-color: rgb(223,199,168);
+  background-color: rgb(218, 147, 54);
 }
 .logo-img-style{
   height:50px;
@@ -7,4 +7,11 @@
 }
 .logo-text-style{
   margin:-21px 0px 0px 50px;
+}
+main{
+  min-height: 82vh;
+}
+footer{
+  background-color: rgb(218, 147, 54);
+  padding: 10px;
 }
